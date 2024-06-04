@@ -1,25 +1,61 @@
 ---
 layout: about
-title: about
+title: Summer 2024
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://forms.gle/GCEdZEgbdNxPMPhP8'>Click Here</a> to attend the workshop.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# profile:
+#   align: right
+#   image: prof_pic.jpg
+#   image_circular: false # crops the image to make it circular
+#   more_info: >
+#     <p>555 your office number</p>
+#     <p>123 your address street</p>
+#     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We would like to invite you to the second workshop on **Women in AI/EE/CS at KAIST**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The workshop will be held at 14:00 - 18:00 on **Jun 17, 2024 (Mon)**, in three different cities: `Seoul`, `Seongnam`, and `Daejeon`.
+The workshop will be **in Korean**.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Keynote Speakers
+  <div class="row projects pt-1 pb-1">
+      <div class="col-sm-4">
+          {% include people.html name="Hwaran Lee" affiliation="NAVER AI Lab" url="https://chenlin9.github.io/" img="/assets/img/hwaranlee.jpeg" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="TBD" affiliation="-" url="" img="/assets/img/people/guan.jpeg" %}
+      </div>
+      <div class="col-sm-4">
+        {% include people.html name="TBD" affiliation="-" url="" img="/assets/img/people/karsten.jpeg" %}
+      </div>
+  </div>
+
+## Organizers
+
+<div class="row row-cols-2 projects pt-3 pb-3">
+  {% include people_horizontal.html name="Minseon Kim" affiliation="Ph.D. student at GSAI" url="https://kim-minseon.github.io/" img="/assets/img/minseonkim.jpeg" %}
+
+  {% include people_horizontal.html name="Hysu Lim" affiliation="Ph.D. student at GSAI" url="https://sites.google.com/view/hyesulim" img="/assets/img/hyesulim.jpg" %}
+
+  {% include people_horizontal.html name="Haneul Yoo" affiliation="Ph.D. student at SoC" url="https://haneul-yoo.github.io/" img="/assets/img/haneulyoo.jpg" %}
+</div>
+
+
+## Sponsors
+<div class="row projects pt-1 pb-1">
+      <div class="col-sm-4">
+          <img class="col-sm" src="/assets/img/soc.png"/>
+      </div>
+      <div class="col-sm-4">
+          <img class="col-sm" src="/assets/img/ee.png"/>
+      </div>
+      <div class="col-sm-4">
+          <img class="col-sm" src="/assets/img/gsai.png"/>
+      </div>
+</div>
