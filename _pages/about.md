@@ -2,7 +2,7 @@
 layout: about
 title: Summer 2024
 permalink: /
-subtitle: <a href='https://forms.gle/GCEdZEgbdNxPMPhP8'>Click Here</a> to attend the workshop.
+subtitle: <strong><a href='https://forms.gle/GCEdZEgbdNxPMPhP8'>Click Here</a></strong> to attend the workshop!
 
 # profile:
 #   align: right
@@ -18,36 +18,47 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-We would like to invite you to the second workshop on **Women in AI/EE/CS at KAIST**.
+We are excited to invite you to the second workshop on **Women in AI/EE/CS at KAIST**.
+Please note that the workshop will be conducted **in Korean**.
 
-The workshop will be held at 14:00 - 18:00 on **Jun 17, 2024 (Mon)**, in three different cities: `Seoul`, `Seongnam`, and `Daejeon`.
-The workshop will be **in Korean**.
+The workshop will be held at 13:30 - 18:00 on **Jun 17, 2024 (Mon)**, in a hybrid format across three different cities: `Seoul`, `Seongnam`, and `Daejeon`.
+- `Seoul` Bldg No. 1, 1st Floor, Kim Dongmyeong Lecture Room (홍릉캠퍼스 KAIST 경영대학 1호관 1층 김동명강의실)
+- `Seongnam` NAVER 1784 or Kins Tower (TBD)
+- `Daejeon` Bldg E3-1, Rm 1104 (본교 전산학동(E3-1) Edu 4.0 강의실 1104호)
 
-## Keynote Speakers
+Join us for inspiring talks from women tech leaders in AI/EE/CS and engage in social events with female students from these fields at KAIST for networking opportunities.
+
+Even if you are not available to attend this workshop, we highly encourage you to **[join Slack](https://join.slack.com/t/womeninkaistai/shared_invite/zt-2jkcrjn1i-_qPKUv0kEQucmpZOHkdvfg)** for updates on further events.
+
+<hr/>
+
+## Confirmed Keynote Speakers
   <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
-          {% include people.html name="Hwaran Lee" affiliation="NAVER AI Lab" url="https://chenlin9.github.io/" img="/assets/img/hwaranlee.jpeg" %}
+          {% include people.html name="Hwaran Lee" affiliation="NAVER AI Lab" url="https://hwaranlee.github.io/" img="/assets/img/hwaranlee.jpeg" %}
       </div>
       <div class="col-sm-4">
-        {% include people.html name="TBD" affiliation="-" url="" img="/assets/img/people/guan.jpeg" %}
+        {% include people.html name="Yuji Roh" affiliation="-" url="https://www.yujiroh.com/" img="/assets/img/yujiroh.jpg" %}
       </div>
       <div class="col-sm-4">
-        {% include people.html name="TBD" affiliation="-" url="" img="/assets/img/people/karsten.jpeg" %}
+        {% include people.html name="Soonyoung Oh" affiliation="-" url="https://www.linkedin.com/in/soonyoung-oh-74a891135/" img="/assets/img/soonyoungoh.jpg" %}
       </div>
   </div>
+
+<hr/>
 
 ## Organizers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Minseon Kim" affiliation="Ph.D. student at GSAI" url="https://kim-minseon.github.io/" img="/assets/img/minseonkim.jpeg" %}
-
-  {% include people_horizontal.html name="Hysu Lim" affiliation="Ph.D. student at GSAI" url="https://sites.google.com/view/hyesulim" img="/assets/img/hyesulim.jpg" %}
-
+  {% include people_horizontal.html name="Hyesu Lim" affiliation="Ph.D. student at GSAI" url="https://sites.google.com/view/hyesulim" img="/assets/img/hyesulim.jpg" %}
   {% include people_horizontal.html name="Haneul Yoo" affiliation="Ph.D. student at SoC" url="https://haneul-yoo.github.io/" img="/assets/img/haneulyoo.jpg" %}
 </div>
 
+<hr/>
 
 ## Sponsors
+
 <div class="row projects pt-1 pb-1">
       <div class="col-sm-4">
           <img class="col-sm" src="/assets/img/soc.png"/>
@@ -59,3 +70,8 @@ The workshop will be **in Korean**.
           <img class="col-sm" src="/assets/img/gsai.png"/>
       </div>
 </div>
+
+<br/>
+
+- We extend our gratitude to the department office and the heads of [School of Computing](https://cs.kaist.ac.kr/), [EE](https://ee.kaist.ac.kr/en/), and [GSAI](https://gsai.kaist.ac.kr/) for financial support.
+- Special thanks to [Professor Sukyoung Ryu](https://plrg.kaist.ac.kr/ryu), [Professor Alice Oh](https://aliceoh9.github.io/), and [Professor Hyunjung Shim](https://sites.google.com/view/cvml-kaist) for their assistance in connecting us with our keynote speakers.
