@@ -32,16 +32,19 @@ Even if you are not available to attend this workshop, we highly encourage you t
 
 <hr/>
 
-## Confirmed Keynote Speakers
+## Keynote Speakers
   <div class="row projects pt-1 pb-1">
-      <div class="col-sm-4">
-          {% include people.html name="Hwaran Lee" affiliation="NAVER AI Lab" url="https://hwaranlee.github.io/" img="/assets/img/hwaranlee.jpeg" %}
+      <div class="col-sm-6">
+        {% include people.html name="SoonYoung Oh" affiliation="-" url="https://www.linkedin.com/in/soonyoung-oh-74a891135/" img="/assets/img/soonyoungoh.jpg" %}
       </div>
-      <div class="col-sm-4">
+      <div class="col-sm-6">
         {% include people.html name="Yuji Roh" affiliation="-" url="https://www.yujiroh.com/" img="/assets/img/yujiroh.jpg" %}
       </div>
-      <div class="col-sm-4">
-        {% include people.html name="Soonyoung Oh" affiliation="-" url="https://www.linkedin.com/in/soonyoung-oh-74a891135/" img="/assets/img/soonyoungoh.jpg" %}
+      <div class="col-sm-6">
+        {% include people.html name="Jin Young Kang" affiliation="KAIST" url="https://kanglab2019.wixsite.com/home" img="/assets/img/jinyoungkang.png" %}
+      </div>
+      <div class="col-sm-6">
+          {% include people.html name="Hwaran Lee" affiliation="NAVER AI Lab" url="https://hwaranlee.github.io/" img="/assets/img/hwaranlee.jpeg" %}
       </div>
   </div>
 
