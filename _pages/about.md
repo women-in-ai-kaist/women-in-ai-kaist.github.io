@@ -27,6 +27,7 @@ The workshop will be held at 13:30 - 18:00 on **Jun 17, 2024 (Mon)**, in a hybri
 - `Daejeon` Bldg E3-1, Rm 1104 (본교 전산학동(E3-1) Edu 4.0 강의실 1104호)
 
 Join us for inspiring talks from women tech leaders in AI/EE/CS and engage in social events with female students from these fields at KAIST for networking opportunities.
+Please feel free to ask questions to our keynote speakers  [here](https://app.sli.do/event/ri3qhtdkEB3WPQJ9sa5L8V).
 
 Even if you are not available to attend this workshop, we highly encourage you to **[join Slack](https://join.slack.com/t/womeninkaistai/shared_invite/zt-2jkcrjn1i-_qPKUv0kEQucmpZOHkdvfg)** for updates on further events.
 
