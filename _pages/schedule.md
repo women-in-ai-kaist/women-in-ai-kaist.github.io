@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<!-- Ask questions to our keynote speakers  <a href="">here</a>. -->
+Ask questions to our keynote speakers  <a href="https://app.sli.do/event/ri3qhtdkEB3WPQJ9sa5L8V">here</a>.
     
 
 | **Time (KST)** | **Event** |
