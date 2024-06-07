@@ -64,14 +64,14 @@ Even if you are not available to attend this workshop, we highly encourage you t
 ## Sponsors
 
 <div class="row projects pt-1 pb-1">
-      <div class="col-sm-4">
+      <div class="col-sm-4" style="display:flex; align-items:center;">
           <img class="col-sm" src="/assets/img/soc.png"/>
       </div>
-      <div class="col-sm-4">
-          <img class="col-sm" src="/assets/img/ee.png"/>
+      <div class="col-sm-4" style="display:flex; align-items:center;">
+          <img class="col-sm" src="/assets/img/ee.svg"/>
       </div>
-      <div class="col-sm-4">
-          <img class="col-sm" src="/assets/img/gsai.png"/>
+      <div class="col-sm-4" style="display:flex; align-items:center;">
+          <img class="col-sm" src="/assets/img/gsai.svg"/>
       </div>
 </div>
 
