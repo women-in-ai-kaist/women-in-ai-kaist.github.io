@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 We are excited to invite you to the second workshop on **Women in AI/EE/CS at KAIST**.
 Please note that the workshop will be conducted **in Korean**.
 
-The workshop will be held at 13:30 - 18:00 on **Jun 17, 2024 (Mon)**, in a hybrid format across three different cities: `Seoul`, `Seongnam`, and `Daejeon`.
+The workshop will be held at 13:30 - 18:00 on **Jun 17, 2024 (Mon)**, in a **[hybrid format](https://us06web.zoom.us/j/7296874809?pwd=SXp4cWFPb2RLU0RQRFZ1WmN0bklmdz09&omn=85149138062)** across three different cities: `Seoul`, `Seongnam`, and `Daejeon`.
 - `Seoul` Bldg No. 1, 1st Floor, Kim Dongmyeong Lecture Room (홍릉캠퍼스 KAIST 경영대학 1호관 1층 김동명강의실)
 - `Seongnam` NAVER 1784 or Kins Tower (TBD)
 - `Daejeon` Bldg E3-1, Rm 1104 (본교 전산학동(E3-1) Edu 4.0 강의실 1104호)
@@ -36,16 +36,16 @@ Even if you are not available to attend this workshop, we highly encourage you t
 ## Keynote Speakers
   <div class="row projects pt-1 pb-1">
       <div class="col-sm-6">
-        {% include people.html name="SoonYoung Oh" affiliation="-" url="https://www.linkedin.com/in/soonyoung-oh-74a891135/" img="/assets/img/soonyoungoh.jpg" %}
+        {% include people.html name="SoonYoung Oh" affiliation="(Ex) Head of Financial AI Center<br/> KB Kookmin Bank" url="https://www.linkedin.com/in/soonyoung-oh-74a891135/" img="/assets/img/soonyoungoh.jpg" %}
       </div>
       <div class="col-sm-6">
-        {% include people.html name="Yuji Roh" affiliation="Google" url="https://www.yujiroh.com/" img="/assets/img/yujiroh.jpg" %}
+        {% include people.html name="Yuji Roh" affiliation="Software Engineer<br/> Google" url="https://www.yujiroh.com/" img="/assets/img/yujiroh.jpg" %}
       </div>
       <div class="col-sm-6">
-        {% include people.html name="Jin Young Kang" affiliation="KAIST" url="https://kanglab2019.wixsite.com/home" img="/assets/img/jinyoungkang.png" %}
+        {% include people.html name="Jin Young Kang" affiliation="Assistant Professor<br/> KAIST" url="https://kanglab2019.wixsite.com/home" img="/assets/img/jinyoungkang.png" %}
       </div>
       <div class="col-sm-6">
-          {% include people.html name="Hwaran Lee" affiliation="NAVER AI Lab" url="https://hwaranlee.github.io/" img="/assets/img/hwaranlee.jpeg" %}
+          {% include people.html name="Hwaran Lee" affiliation="Lead Research Scientist<br/> NAVER AI Lab" url="https://hwaranlee.github.io/" img="/assets/img/hwaranlee.jpeg" %}
       </div>
   </div>
 
@@ -57,6 +57,7 @@ Even if you are not available to attend this workshop, we highly encourage you t
   {% include people_horizontal.html name="Minseon Kim" affiliation="Ph.D. student at GSAI" url="https://kim-minseon.github.io/" img="/assets/img/minseonkim.jpeg" %}
   {% include people_horizontal.html name="Hyesu Lim" affiliation="Ph.D. student at GSAI" url="https://sites.google.com/view/hyesulim" img="/assets/img/hyesulim.jpg" %}
   {% include people_horizontal.html name="Haneul Yoo" affiliation="Ph.D. student at SoC" url="https://haneul-yoo.github.io/" img="/assets/img/haneulyoo.jpg" %}
+  {% include people_horizontal.html name="Younghye Hwang" affiliation="M.S. student at EE" url="" img="/assets/img/younghyehwang.jpeg" %}
 </div>
 
 <hr/>
