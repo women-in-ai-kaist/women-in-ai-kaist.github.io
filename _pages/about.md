@@ -23,7 +23,7 @@ Please note that the workshop will be conducted **in Korean**.
 
 The workshop will be held at 13:30 - 18:00 on **Jun 17, 2024 (Mon)**, in a **[hybrid format](https://us06web.zoom.us/j/7296874809?pwd=SXp4cWFPb2RLU0RQRFZ1WmN0bklmdz09&omn=85149138062)** across three different cities: `Seoul`, `Seongnam`, and `Daejeon`.
 - `Seoul` Bldg No. 1, 1st Floor, Kim Dongmyeong Lecture Room (홍릉캠퍼스 KAIST 경영대학 1호관 1층 김동명강의실)
-- `Seongnam` NAVER 1784 or Kins Tower (TBD)
+- `Seongnam` NAVER 1784, 3rd Floor, Hall #2 (네이버 1784 3층 Hall #2)
 - `Daejeon` Bldg E3-1, Rm 1104 (본교 전산학동(E3-1) Edu 4.0 강의실 1104호)
 
 Join us for inspiring talks from women tech leaders in AI/EE/CS and engage in social events with female students from these fields at KAIST for networking opportunities.
